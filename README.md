@@ -22,6 +22,11 @@ Bu repo Kodluyoruz HTML eğitimi kapsamında yapılan çalışmaları içermekte
 - Ödevde, Ödev 1'de oluşturulan HTML sayfasında liste, link ve görsel etkiketlerini de kullanarak sevdiğimiz kitap ve dizilerden de bahsetmemiz istenmiştir.
 - [Ödev 2'ye gitmek için tıklayın!](https://github.com/kadirboylu/patika.dev-html-egitimi/tree/main/html-odev-2)
 
+## **Ödev 3**
+
+- Ödevde, HTML ve CSS bilgilerimizle istediğimiz bir yiyeceği seçip yapılışını anlatmamız istenmiştir.
+- [Ödev 3'e gitmek için tıklayın!](https://github.com/kadirboylu/patika-dev-html-egitimi/tree/main/html-odev-3)
+
 ## **Bölüm Sonu Çalışması**
 
 - Bu çalışmada ana sayfa, hakkımızda ve iletişim sayfaları oluşturarak HTML eğitimi süresince öğrendiklerimizi pekiştirmiş olduk. 
